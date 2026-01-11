@@ -5,7 +5,7 @@
 body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 15px;
-  color: #424142;
+  color: #000000;
   padding-top: 20px;
   background-image: url({{ site.url }}/images/grid.png);
   background-color: gray;
@@ -81,11 +81,11 @@ body {
 }
 
 .jumbotron a {
-  color: #424142;
+  color: #000000;
 }
 
 .jumbotron a:visited {
-  color: #424142;
+  color: #000000;
 }
 
 
@@ -140,3 +140,4 @@ body {
   max-width: 700px;
   margin-left: auto;
 }
+
